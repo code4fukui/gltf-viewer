@@ -1,5 +1,7 @@
 # gltf-viewer
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 gltf-viewer is a HTMLElement for GLB/GLTF model data.
 
 ## Demo
