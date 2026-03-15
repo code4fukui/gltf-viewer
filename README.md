@@ -1,8 +1,14 @@
 # gltf-viewer
 
-gltf-viewer is a HTMLElement for GLB/GLTF model data
+gltf-viewer is a HTMLElement for GLB/GLTF model data.
 
-- [DEMO](https://code4fukui.github.io/gltf-viewer/)
+## Demo
+[DEMO](https://code4fukui.github.io/gltf-viewer/)
+
+## Features
+- Displays 3D models in a web page using the WebGL standard
+- Supports GLB and GLTF file formats
+- Adjustable model position and rotation
 
 ## Usage
 
@@ -19,3 +25,6 @@ gltf-viewer {
 <script type="module" src="./gltf-viewer.js"></script>
 <gltf-viewer src="./kaniinu.glb" y=-0.12 z=-.25></gltf-viewer>
 ```
+
+## License
+MIT License
